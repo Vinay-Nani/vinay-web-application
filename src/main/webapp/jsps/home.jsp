@@ -4,33 +4,29 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>vinay- Home Page</title>
+<link href="Pictures/images.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to My Web page</h1>
+<h1 align="center">This is my new web page with my basic information</h1>
 <hr>
-<div style="text-align: center;">
+<div style="text-align: left;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="Pictures/images.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore.
-		+91-9980923226,
+	<h1 align="left">Name	:		vinay</h1>
+	<h1 align="left">D.O.B	:	    2nd March 1993</h1>
+	<h1 align="left">Mobile	:	    9849209929</h1>
+	<h1 align="left">Email	:	    veenay333@gmail.com</h1>
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
-<hr>
-<hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>VINAY - Hyderabad, Telangana</p>
+<p align=center><small>Copyrights 2020 by <a href="vinay">vinay</a> </small></p>
 
 </body>
 </html>
