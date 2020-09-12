@@ -20,7 +20,7 @@
 	<h1 align="left">Name	:		vinay</h1>
 	<h1 align="left">D.O.B	:	    2nd March 1993</h1>
 	<h1 align="left">Mobile	:	    9849209929</h1>
-	<h1 align="left">Email	:	    veenay@gmail.com</h1>
+	<h1 align="left">Email	:	    veenay777@gmail.com</h1>
 		<br>
 	</span>
 </div>
