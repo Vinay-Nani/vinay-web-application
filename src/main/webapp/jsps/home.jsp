@@ -17,10 +17,10 @@
 		<img src="Pictures/images.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-	<h1 align="left">Name	:		vinay</h1>
-	<h1 align="left">D.O.B	:	    2nd March 1993</h1>
-	<h1 align="left">Mobile	:	    9849209929</h1>
-	<h1 align="left">Email	:	    veenay777@gmail.com</h1>
+	<h1 align="left">Name	:	     vinay</h1>
+	<h1 align="left">D.O.B	:	     9/9/99</h1>
+	<h1 align="left">Mobile	:	     9999999999</h1>
+	<h1 align="left">Email	:	     veenay999@gmail.com</h1>
 		<br>
 	</span>
 </div>
